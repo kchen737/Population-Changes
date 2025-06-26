@@ -3,6 +3,10 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import ssl
+
+print(ssl.get_default_verify_paths())
+
 
 # Base URL
 base_url = "https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/"
