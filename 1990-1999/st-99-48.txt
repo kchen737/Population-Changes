@@ -1,0 +1,65 @@
+(ST-99-48) States Ranked by Hispanic Population, July 1, 1999
+  
+Source:  Population Estimates Program, Population Division, U.S. Census Bureau, Washington, DC  20233
+  
+Internet Release Date:  August 30, 2000
+  
+Contact:  Statistical Information Staff, Population Division, U.S. Census Bureau (301-457-2422)
+           pop@census.gov (please include a phone number with email correspondence)
+
+                               Estimated        4/1/90                        |-----7/1/99-----|
+                                Hispanic    Population |--4/1/90 to 7/1/99--|            Rank of
+                             Population,     Estimates        Numeric Percent   Percent  Percent
+Rank STATE                        7/1/99          Base         Change  Change  Hispanic Hispanic
+                                                                                                
+   1 CALIFORNIA               10,459,616     7,704,348      2,755,268    35.8      31.6        2
+   2 TEXAS                     6,045,430     4,339,874      1,705,556    39.3      30.2        3
+   3 NEW YORK                  2,660,685     2,213,943        446,742    20.2      14.6        8
+   4 FLORIDA                   2,334,403     1,574,148        760,255    48.3      15.4        6
+   5 ILLINOIS                  1,276,193       904,449        371,744    41.1      10.5       10
+   6 ARIZONA                   1,084,250       688,355        395,895    57.5      22.7        4
+   7 NEW JERSEY                1,027,277       747,737        279,540    37.4      12.6        9
+   8 NEW MEXICO                  708,407       579,227        129,180    22.3      40.7        1
+   9 COLORADO                    603,582       424,309        179,273    42.3      14.9        7
+  10 MASSACHUSETTS               390,947       287,561        103,386    36.0       6.3       19
+  11 WASHINGTON                  376,664       214,568        162,096    75.5       6.5       17
+  12 PENNSYLVANIA                326,218       232,286         93,932    40.4       2.7       31
+  13 NEVADA                      304,364       124,408        179,956   144.6      16.8        5
+  14 CONNECTICUT                 279,164       213,116         66,048    31.0       8.5       11
+  15 MICHIGAN                    275,849       201,597         74,252    36.8       2.8       29
+  16 VIRGINIA                    266,228       160,403        105,825    66.0       3.9       25
+  17 GEORGIA                     239,566       108,933        130,633   119.9       3.1       28
+  18 OREGON                      212,870       112,708        100,162    88.9       6.4       18
+  19 MARYLAND                    199,156       125,093         74,063    59.2       3.9       26
+  20 OHIO                        184,902       139,695         45,207    32.4       1.6       40
+  21 NORTH CAROLINA              175,707        76,745         98,962   128.9       2.3       34
+  22 INDIANA                     153,960        98,789         55,171    55.8       2.6       33
+  23 UTAH                        150,699        84,597         66,102    78.1       7.1       15
+  24 KANSAS                      148,479        93,671         54,808    58.5       5.6       21
+  25 WISCONSIN                   140,235        93,232         47,003    50.4       2.7       32
+  26 OKLAHOMA                    136,634        86,162         50,472    58.6       4.1       23
+  27 LOUISIANA                   119,496        93,067         26,429    28.4       2.7       30
+  28 HAWAII                       95,456        81,396         14,060    17.3       8.1       12
+  29 IDAHO                        93,028        52,927         40,101    75.8       7.4       13
+  30 MINNESOTA                    92,589        53,888         38,701    71.8       1.9       37
+  31 MISSOURI                     91,476        61,698         29,778    48.3       1.7       39
+  32 NEBRASKA                     76,998        36,969         40,029   108.3       4.6       22
+  33 RHODE ISLAND                 68,644        45,755         22,889    50.0       6.9       16
+  34 TENNESSEE                    67,078        32,742         34,336   104.9       1.2       44
+  35 IOWA                         61,570        32,643         28,927    88.6       2.1       35
+  36 SOUTH CAROLINA               54,299        30,500         23,799    78.0       1.4       42
+  37 ARKANSAS                     53,729        19,876         33,853   170.3       2.1       36
+  38 ALABAMA                      45,349        24,629         20,720    84.1       1.0       46
+  39 DISTRICT OF COLUMBIA         38,453        32,713          5,740    17.5       7.4       14
+  40 KENTUCKY                     35,322        22,005         13,317    60.5       0.9       47
+  41 WYOMING                      29,022        25,752          3,270    12.7       6.1       20
+  42 DELAWARE                     27,769        15,824         11,945    75.5       3.7       27
+  43 ALASKA                       24,795        17,803          6,992    39.3       4.0       24
+  44 MISSISSIPPI                  23,975        15,998          7,977    49.9       0.9       48
+  45 NEW HAMPSHIRE                19,552        11,333          8,219    72.5       1.6       41
+  46 MONTANA                      16,152        12,175          3,977    32.7       1.8       38
+  47 WEST VIRGINIA                10,330         8,487          1,843    21.7       0.6       51
+  48 MAINE                         9,178         6,829          2,349    34.4       0.7       50
+  49 SOUTH DAKOTA                  8,980         5,252          3,728    71.0       1.2       43
+  50 NORTH DAKOTA                  7,269         4,665          2,604    55.8       1.1       45
+  51 VERMONT                       5,128         3,661          1,467    40.1       0.9       49

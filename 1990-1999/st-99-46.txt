@@ -1,0 +1,68 @@
+(ST-99-46) States Ranked by American Indian and Alaska Native Population, July 1, 1999
+  
+Source:  Population Estimates Program, Population Division, U.S. Census Bureau, Washington, DC  20233
+  
+Internet Release Date:  August 30, 2000
+  
+Contact:  Statistical Information Staff, Population Division, U.S. Census Bureau (301-457-2422)
+           pop@census.gov (please include a phone number with email correspondence)
+
+                               Estimated                                      |-----7/1/99-----|
+                                American                                        Percent  Rank of
+                                Indian &                                       American  Percent
+                                  Alaska        4/1/90                           Indian American
+                                  Native    Population |--4/1/90 to 7/1/99--|       and Indian &
+                             Population,     Estimates        Numeric Percent    Alaska   Alaska
+Rank STATE                        7/1/99          Base         Change  Change    Native   Native
+                                                                                                
+   1 CALIFORNIA                  313,642       286,611         27,031     9.4       0.9       16
+   2 OKLAHOMA                    262,581       257,794          4,787     1.9       7.8        4
+   3 ARIZONA                     261,168       214,427         46,741    21.8       5.5        6
+   4 NEW MEXICO                  165,944       137,625         28,319    20.6       9.5        2
+   5 WASHINGTON                  104,819        87,259         17,560    20.1       1.8        9
+   6 ALASKA                      101,352        86,252         15,100    17.5      16.4        1
+   7 NORTH CAROLINA               99,277        80,825         18,452    22.8       1.3       14
+   8 TEXAS                        97,412        72,343         25,069    34.7       0.5       25
+   9 NEW YORK                     76,755        66,337         10,418    15.7       0.4       28
+  10 FLORIDA                      60,358        37,132         23,226    62.5       0.4       29
+  11 SOUTH DAKOTA                 60,335        50,870          9,465    18.6       8.2        3
+  12 MICHIGAN                     59,897        57,654          2,243     3.9       0.6       21
+  13 MINNESOTA                    58,575        50,921          7,654    15.0       1.2       15
+  14 MONTANA                      57,225        48,121          9,104    18.9       6.5        5
+  15 WISCONSIN                    46,830        40,588          6,242    15.4       0.9       19
+  16 OREGON                       45,633        40,522          5,111    12.6       1.4       12
+  17 COLORADO                     37,548        31,104          6,444    20.7       0.9       17
+  18 NEVADA                       32,871        21,071         11,800    56.0       1.8       10
+  19 NORTH DAKOTA                 30,522        26,046          4,476    17.2       4.8        7
+  20 UTAH                         30,045        25,385          4,660    18.4       1.4       11
+  21 ILLINOIS                     27,987        24,175          3,812    15.8       0.2       45
+  22 KANSAS                       23,554        23,380            174     0.7       0.9       20
+  23 OHIO                         23,337        20,864          2,473    11.9       0.2       48
+  24 NEW JERSEY                   22,625        15,905          6,720    42.3       0.3       38
+  25 MISSOURI                     20,701        20,211            490     2.4       0.4       30
+  26 LOUISIANA                    19,407        18,707            700     3.7       0.4       27
+  27 VIRGINIA                     19,396        15,708          3,688    23.5       0.3       37
+  28 GEORGIA                      18,717        13,715          5,002    36.5       0.2       44
+  29 PENNSYLVANIA                 18,054        15,369          2,685    17.5       0.2       49
+  30 IDAHO                        16,656        14,940          1,716    11.5       1.3       13
+  31 MARYLAND                     16,044        13,206          2,838    21.5       0.3       35
+  32 MASSACHUSETTS                15,229        12,959          2,270    17.5       0.2       41
+  33 NEBRASKA                     15,216        12,855          2,361    18.4       0.9       18
+  34 INDIANA                      15,075        13,050          2,025    15.5       0.3       39
+  35 ALABAMA                      14,599        16,575         -1,976   -11.9       0.3       33
+  36 ARKANSAS                     13,965        12,981            984     7.6       0.5       23
+  37 TENNESSEE                    12,231        10,139          2,092    20.6       0.2       46
+  38 WYOMING                      10,867         9,792          1,075    11.0       2.3        8
+  39 MISSISSIPPI                  10,282         8,565          1,717    20.0       0.4       31
+  40 SOUTH CAROLINA                9,601         8,328          1,273    15.3       0.2       40
+  41 IOWA                          8,760         7,716          1,044    13.5       0.3       36
+  42 CONNECTICUT                   8,093         6,990          1,103    15.8       0.2       42
+  43 HAWAII                        6,565         5,470          1,095    20.0       0.6       22
+  44 KENTUCKY                      5,936         5,861             75     1.3       0.1       50
+  45 MAINE                         5,752         6,022           -270    -4.5       0.5       26
+  46 RHODE ISLAND                  5,286         4,223          1,063    25.2       0.5       24
+  47 NEW HAMPSHIRE                 2,597         2,153            444    20.6       0.2       47
+  48 WEST VIRGINIA                 2,472         2,469              3     0.1       0.1       51
+  49 DELAWARE                      2,389         2,072            317    15.3       0.3       34
+  50 DISTRICT OF COLUMBIA          1,785         1,551            234    15.1       0.3       32
+  51 VERMONT                       1,459         1,703           -244   -14.3       0.2       43

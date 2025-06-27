@@ -1,0 +1,67 @@
+(ST-99-47) States Ranked by Asian and Pacific Islander Population, July 1, 1999
+  
+Source:  Population Estimates Program, Population Division, U.S. Census Bureau, Washington, DC  20233
+  
+Internet Release Date:  August 30, 2000
+  
+Contact:  Statistical Information Staff, Population Division, U.S. Census Bureau (301-457-2422)
+           pop@census.gov (please include a phone number with email correspondence)
+
+                               Estimated                                      |-----7/1/99-----|
+                               Asian and                                                 Rank of
+                                 Pacific        4/1/90                          Percent  Percent
+                                Islander    Population |--4/1/90 to 7/1/99--|   Asian &  Asian &
+                             Population,     Estimates        Numeric Percent   Pacific  Pacific
+Rank STATE                        7/1/99          Base         Change  Change  Islander Islander
+                                                                                                
+   1 CALIFORNIA                4,038,309     2,951,722      1,086,587    36.8      12.2        2
+   2 NEW YORK                  1,024,625       709,127        315,498    44.5       5.6        5
+   3 HAWAII                      753,691       695,564         58,127     8.4      63.6        1
+   4 TEXAS                       577,306       331,428        245,878    74.2       2.9       14
+   5 NEW JERSEY                  469,435       277,024        192,411    69.5       5.8        4
+   6 ILLINOIS                    416,006       292,421        123,585    42.3       3.4       11
+   7 WASHINGTON                  343,690       215,454        128,236    59.5       6.0        3
+   8 FLORIDA                     281,366       156,444        124,922    79.9       1.9       23
+   9 VIRGINIA                    258,371       161,195         97,176    60.3       3.8       10
+  10 MASSACHUSETTS               233,239       146,030         87,209    59.7       3.8        9
+  11 MARYLAND                    209,147       141,271         67,876    48.0       4.0        8
+  12 PENNSYLVANIA                202,969       139,966         63,003    45.0       1.7       25
+  13 MICHIGAN                    166,287       106,210         60,077    56.6       1.7       26
+  14 GEORGIA                     160,566        76,819         83,747   109.0       2.1       22
+  15 OHIO                        132,638        91,929         40,709    44.3       1.2       35
+  16 MINNESOTA                   130,537        78,577         51,960    66.1       2.7       15
+  17 OREGON                      110,015        70,239         39,776    56.6       3.3       12
+  18 NORTH CAROLINA              105,689        53,102         52,587    99.0       1.4       29
+  19 ARIZONA                     102,539        58,362         44,177    75.7       2.1       20
+  20 COLORADO                     99,939        61,650         38,289    62.1       2.5       18
+  21 NEVADA                       88,208        39,439         48,769   123.7       4.9        6
+  22 CONNECTICUT                  84,337        51,807         32,530    62.8       2.6       16
+  23 WISCONSIN                    83,265        54,217         29,048    53.6       1.6       27
+  24 MISSOURI                     61,483        41,758         19,725    47.2       1.1       37
+  25 INDIANA                      58,665        38,085         20,580    54.0       1.0       38
+  26 LOUISIANA                    54,652        41,519         13,133    31.6       1.3       33
+  27 UTAH                         54,647        34,024         20,623    60.6       2.6       17
+  28 TENNESSEE                    54,053        32,104         21,949    68.4       1.0       39
+  29 KANSAS                       47,767        32,422         15,345    47.3       1.8       24
+  30 OKLAHOMA                     45,301        34,586         10,715    31.0       1.3       31
+  31 IOWA                         37,047        25,715         11,332    44.1       1.3       32
+  32 SOUTH CAROLINA               35,604        22,680         12,924    57.0       0.9       40
+  33 ALABAMA                      28,435        21,922          6,513    29.7       0.7       49
+  34 ALASKA                       28,040        20,213          7,827    38.7       4.5        7
+  35 KENTUCKY                     27,662        18,025          9,637    53.5       0.7       47
+  36 NEW MEXICO                   26,427        15,148         11,279    74.5       1.5       28
+  37 RHODE ISLAND                 23,140        18,906          4,234    22.4       2.3       19
+  38 NEBRASKA                     22,574        12,629          9,945    78.7       1.4       30
+  39 MISSISSIPPI                  19,601        13,094          6,507    49.7       0.7       46
+  40 ARKANSAS                     18,790        12,661          6,129    48.4       0.7       45
+  41 DISTRICT OF COLUMBIA         16,120        11,556          4,564    39.5       3.1       13
+  42 DELAWARE                     16,054         9,146          6,908    75.5       2.1       21
+  43 NEW HAMPSHIRE                14,974         9,376          5,598    59.7       1.2       34
+  44 IDAHO                        14,430         9,608          4,822    50.2       1.2       36
+  45 MAINE                         9,484         6,711          2,773    41.3       0.8       44
+  46 WEST VIRGINIA                 8,746         7,497          1,249    16.7       0.5       51
+  47 MONTANA                       5,391         4,302          1,089    25.3       0.6       50
+  48 NORTH DAKOTA                  5,272         3,512          1,760    50.1       0.8       42
+  49 VERMONT                       4,921         3,231          1,690    52.3       0.8       43
+  50 SOUTH DAKOTA                  4,876         3,165          1,711    54.1       0.7       48
+  51 WYOMING                       4,091         2,921          1,170    40.1       0.9       41

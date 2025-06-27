@@ -1,0 +1,139 @@
+(ST-99-21)  Estimates of the Median Age of the Population for the U.S., Regions,
+             Divisions, and States:  July 1, 1999 (includes April 1, 1990 census
+             median age figures)
+
+The documentation is located at the end of the data file.
+
+Source:  Population Estimates Program, Population Division, U.S. Census Bureau,
+         Washington, DC  20233
+
+Contact:  Statistical Information Staff, Population Division, U.S. Census Bureau,
+          (301) 457-2422
+
+Internet Release Date:  March 9, 2000
+
+                             Median Age,    Median Age,
+                             July 1, 1999   April 1, 1990
+
+U.S.                               35.5           32.8
+Northeast                          36.9           34.0
+   New England                     36.7           33.6
+   Mid Atlantic                    37.0           34.2
+Midwest                            35.7           32.9
+   East North Central              35.6           32.8
+   West North Central              35.8           33.0
+South                              35.5           32.7
+   South Atlantic                  36.3           33.5
+   East South Central              35.7           32.8
+   West South Central              33.7           31.2
+West                               34.1           31.7
+   Mountain                        34.1           31.5
+   Pacific                         34.1           31.7
+Alabama                            36.0           32.9
+Alaska                             30.9           29.3
+Arizona                            34.5           32.0
+Arkansas                           36.0           33.7
+California                         33.6           31.3
+Colorado                           35.7           32.4
+Connecticut                        37.0           34.3
+Delaware                           35.9           32.7
+District of Columbia               37.6           33.2
+Florida                            38.7           36.2
+Georgia                            34.0           31.4
+Hawaii                             36.9           32.5
+Idaho                              33.5           31.5
+Illinois                           35.2           32.7
+Indiana                            35.4           32.7
+Iowa                               36.9           34.0
+Kansas                             35.4           32.8
+Kentucky                           36.1           32.9
+Louisiana                          34.1           30.9
+Maine                              37.8           33.8
+Maryland                           35.7           32.9
+Massachusetts                      36.5           33.4
+Michigan                           35.5           32.5
+Minnesota                          35.4           32.4
+Mississippi                        33.7           31.1
+Missouri                           36.1           33.4
+Montana                            37.8           33.8
+Nebraska                           35.5           32.9
+Nevada                             35.3           33.2
+New Hampshire                      35.9           32.7
+New Jersey                         37.0           34.3
+New Mexico                         34.5           31.1
+New York                           36.4           33.7
+North Carolina                     35.5           33.0
+North Dakota                       36.2           32.3
+Ohio                               36.1           33.3
+Oklahoma                           35.8           33.1
+Oregon                             36.9           34.5
+Pennsylvania                       37.9           34.9
+Rhode Island                       36.6           33.8
+South Carolina                     35.5           31.9
+South Dakota                       35.4           32.4
+Tennessee                          36.2           33.5
+Texas                              33.0           30.6
+Utah                               26.7           26.2
+Vermont                            37.2           32.9
+Virginia                           35.4           32.5
+Washington                         35.5           33.0
+West Virginia                      38.9           35.3
+Wisconsin                          36.0           32.8
+Wyoming                            36.1           32.0
+
+
+      Documentation to Accompany July 1, 1999 Population 
+              Estimates for States by Age and Sex
+
+The U.S. Census Bureau released these population estimates to the public in
+March, 2000. The estimates incorporate revisions of estimates from previous
+years as well as the results of special censuses and test censuses conducted
+by the Census Bureau.
+
+Age - The age of individuals is age at their last birthday.
+                                                  
+Census Regions and Divisions - The Census Bureau delineates two sets of
+sub-national regions that are formed of states.  This two-tiered system of
+regions consists of 9 census divisions nested within 4 census regions.  The
+Northeast region includes the New England division: Connecticut, Maine,
+Massachusetts, New Hampshire, Rhode Island, and Vermont; and the Middle
+Atlantic division: New Jersey, New York, and Pennsylvania.  The Midwest
+region includes the East North Central division: Illinois, Indiana, Michigan,
+Ohio, and Wisconsin; and the West North Central division: Iowa, Kansas,
+Minnesota, Missouri, Nebraska, North Dakota, and South Dakota.  The South
+region includes the South Atlantic division: Delaware, District of Columbia,
+Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West
+Virginia; the East South Central division: Alabama, Kentucky, Mississippi, and
+Tennessee; and the West South Central division: Arkansas, Louisiana, Oklahoma,
+and Texas.  The West region includes the Mountain division: Arizona, Colorado,
+Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming; and the Pacific
+division: Alaska, California, Hawaii, Oregon, and Washington.
+
+Median Age - The median age divides the age distribution into two equal parts;
+half of the cases fall below the median value and half are above the median
+value.
+
+4/1/90  - is an estimate of the 1990 population for governmental units with
+boundaries reported as legally effective as of January 1, 1998.  This includes
+annexations, new incorporations, mergers, et cetera.
+
+7/1/90 through 7/1/99 -  The estimated population is the computed number of
+persons living in an area (resident population) as of July 1.  The estimated
+population is calculated from a demographic components of change model that
+incorporates information on natural change (births minus deaths) and net
+migration (net domestic migration and net movement from abroad) that has
+occurred in the area since the reference date, such as April 1, 1990, the date
+of the 1990 census.  Additional information on the methodology used to produce
+these population estimates is contained in Current Population Reports P25-1127
+and at our Internet site:  <http://www.census.gov/population/www/method.html>.
+
+Resident Population - These population estimates are for the resident
+population.  The resident population of an area includes all residents (both
+civilian and Armed Forces populations) living in the area.  The geographic
+universe for the resident population is the 50 states and the District of
+Columbia.  It excludes Puerto Rico and outlying areas under United States
+jurisdiction.  The resident population excludes U.S. citizens residing abroad.
+
+Sex - These statistics provide population estimates for males, females, and
+the total population.
+

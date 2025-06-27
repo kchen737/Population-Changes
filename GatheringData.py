@@ -9,7 +9,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Step 1: Define base URL
-base_url = "https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/"
+base_url = "https://www2.census.gov/programs-surveys/popest/tables/1990-2000/state/asrh/"
 
 # Step 2: Create target folders
 os.makedirs("ByStates", exist_ok=True)
@@ -19,6 +19,24 @@ os.makedirs("ByStatesWithAge", exist_ok=True)
 html = requests.get(base_url, verify=False).text  # Still use requests just to scrape the page
 soup = BeautifulSoup(html, "html.parser")
 
+
+txt_links = [a['href'] for a in soup.find_all('a', href=True) if a['href'].endswith('.txt')]
+
+for filename in txt_links:
+    filename = filename.strip()
+    
+    file_url = urljoin(base_url, filename)
+    output_path = os.path.join("1990-1999", filename)
+    
+    print(f"Downloading {filename} to {output_path} ...")
+    exit_code = os.system(f'curl -s -o "{output_path}" "{file_url}"')
+    
+    if exit_code != 0:
+        print(f" Failed to download {filename}")
+
+
+
+'''
 # Step 4: Compile regex patterns
 pattern_st4 = re.compile(r"^st\d{4}\.txt$", re.IGNORECASE)
 pattern_stiag = re.compile(r"^stiag.*\.txt$", re.IGNORECASE)
@@ -41,11 +59,13 @@ for filename in txt_links:
     file_url = urljoin(base_url, filename)
     output_path = os.path.join(folder, filename)
 
+
     # Download using curl
     print(f"Downloading {filename} to {output_path} ...")
     exit_code = os.system(f'curl -s -o "{output_path}" "{file_url}"')
     
     if exit_code != 0:
         print(f"⚠️ Failed to download {filename}")
+'''
 
 print("✅ Download complete.")
